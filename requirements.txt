@@ -1,0 +1,16 @@
+python-dotenv
+faiss-cpu
+langchain
+langchain_community
+langchain_huggingface
+langchain_openai
+nltk
+numpy
+pandas
+pymupdf
+streamlit
+requests
+flask
+langchain-core
+pypdf
+rank_bm25

@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What is a Decider Agent?",
+        "answer": "In charge of making the final diagnosis based on the indicators obtained from previous steps. The implementation includes two approaches, which will be introduced in the following sections"
+    },
+    {
+        "question": "What dataset was used for the experiments?",
+        "answer": "For glaucoma diagnosis, we use the REFUGE2 dataset [17], which is a 2D retinal fundus image dataset containing 1200 RGB images at a resolution of 2124 x 2056 annotated by experts"
+    }
+]

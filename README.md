@@ -16,16 +16,15 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-## Setup Instructions
+## How to Run
 
-Clone the repository:
+
+**Clone the repository**
 
    ```
    git clone https://github.com/pawar-jayesh/pjait-teg-bonus.git
    cd pjait-teg-bonus
   ```
-
-## How to Run
 
 **Create and activate a virtual environment**
 
